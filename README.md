@@ -1,11 +1,10 @@
-# 👋 Kia ora, Tuo here!   <img width="50" alt="favicon" src="https://github.com/Cookiext23/Cookiext23/assets/109332897/98d164b5-1a8c-4b6f-9b96-133e5c07b9bd">
-
+# 👋 Kia ora, Tuo here!   <img width="70" alt="favicon" src="https://github.com/Cookiext23/Cookiext23/assets/109332897/d8c38d64-6c32-423b-9509-c4b5eff36dd7">
 🏄🏻 Software Engineer sharing my journey and learnings in tech<br/><br/>
 Used to be a **Vet** 🐈🐕👩🏻‍⚕️ --> then a **digital ed worker** 👩🏻‍🏫 --> now a **software engineer** 👩🏻‍💻<br/><br/>
 👩🏻‍🎓 Completed my Applied Computing studies at Lincoln University, New Zealand.<br/><br/>
 🌱 Currently learning about **data science** and participating [2024 Microsoft Student Accelerator Programme](https://nzmsa.vercel.app/MSAProgramme)<br/><br/>
 
-## <img width="40" alt="favicon" src="https://github.com/Cookiext23/Cookiext23/assets/109332897/98d164b5-1a8c-4b6f-9b96-133e5c07b9bd"> Portfolio Website: 
+## <img width="40" alt="favicon" src="https://github.com/Cookiext23/Cookiext23/assets/109332897/d8c38d64-6c32-423b-9509-c4b5eff36dd7"> Portfolio Website: 
 [![Tuofolio](https://img.shields.io/badge/Tuofolio-07342F?style=for-the-badge)](https://cookiext23.github.io/tuofolio/)
 <br/><br/>
 
