@@ -5,7 +5,7 @@ Used to be a **Vet** 🐈🐕👩🏻‍⚕️ --> then a **digital ed worker** 
 🌱 Currently learning about **data science** and participating [2024 Microsoft Student Accelerator Programme](https://nzmsa.vercel.app/MSAProgramme)<br/><br/>
 
 ## <img width="40" alt="favicon" src="https://github.com/Cookiext23/Cookiext23/assets/109332897/d8c38d64-6c32-423b-9509-c4b5eff36dd7"> Portfolio Website: 
-[![Tuofolio](https://img.shields.io/badge/Tuofolio-07342F?style=for-the-badge)](https://cookiext23.github.io/tuofolio/)
+[![Tuofolio](https://img.shields.io/badge/Tuofolio-f4e8cf?style=for-the-badge)](https://cookiext23.github.io/tuofolio/)
 <br/><br/>
 
 ## 💻 Tech Stack:
